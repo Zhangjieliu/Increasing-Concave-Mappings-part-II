@@ -39,7 +39,6 @@ For the 10,000-bus benchmark, run:
 results = run_ac10000();
 ```
 
-An eight-worker MATLAB thread pool is required for the large-scale benchmark.
 
 ## Generated Outputs
 
